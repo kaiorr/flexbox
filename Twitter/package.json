@@ -1,0 +1,9 @@
+{
+  "name": "Twitter",
+  "version": "1.0.0",
+  "main": "index.html",
+  "license": "MIT",
+  "scripts": {
+   "start": "live-server"
+  }
+}
