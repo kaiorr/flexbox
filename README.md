@@ -3,6 +3,7 @@
 <h2 align="center">💡 Responsividade</h2>
 
 <p align="center">
+
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kaiorr/flexbox?style=plastic">
 
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kaiorr/flexbox?color=7800ff&style=plastic">
