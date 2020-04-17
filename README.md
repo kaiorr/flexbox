@@ -3,21 +3,19 @@
 <h2 align="center">💡 Responsividade</h2>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kaiorr/flexbox?style=plastic">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kaiorr/flexbox?style=plastic">
 
-  <a href="https://www.linkedin.com/in/kaio-ribeiro-310123150/"> <img alt="Made by Kaio" src="https://img.shields.io/badge/made%20by-kaiorr-%2304D361"> </a>
+<a href="https://www.linkedin.com/in/kaio-ribeiro-310123150/"> <img alt="Made by Kaio" src="https://img.shields.io/badge/made%20by-kaiorr-%2304D361"> </a>
 
-  <img alt="Security Headers" src="https://img.shields.io/security-headers?url=https%3A%2F%2Fgithub.com%2Fkaiorr%2Fflexbox">
-  
-  <a href="https://github.com/kaiorr/flexbox/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/kaiorr/flexbox?color=7800ff&style=plastic"></a>
 
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kaiorr/flexbox?color=7800ff&style=plastic">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kaiorr/flexbox?color=7800ff&style=plastic">
 
-  <a href="https://github.com/kaiorr/flexbox/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaiorr/flexbox?color=7800ff&style=plastic"></a>
+<a href="https://github.com/kaiorr/flexbox/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaiorr/flexbox?color=7800ff&style=plastic">
+</a>
 
-  <a href="https://github.com/kaiorr/flexbox/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/kaiorr/flexbox?style=social">
-  </a>
+<a href="https://github.com/kaiorr/flexbox/stargazers">
+  <img alt="Stargazers" src="https://img.shields.io/github/stars/kaiorr/flexbox?style=social">
+</a>
 </p>
 
 ## 📢 Sobre
