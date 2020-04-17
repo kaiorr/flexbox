@@ -9,11 +9,11 @@
 
   <img alt="Security Headers" src="https://img.shields.io/security-headers?url=https%3A%2F%2Fgithub.com%2Fkaiorr%2Fflexbox">
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/kaiorr/flexbox?color=7800ff&style=plastic">
+  <a href="https://github.com/kaiorr/flexbox/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/kaiorr/flexbox?color=7800ff&style=plastic"></a>
 
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kaiorr/flexbox?color=7800ff&style=plastic">
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaiorr/flexbox?color=7800ff&style=plastic">
+  <a href="https://github.com/kaiorr/flexbox/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaiorr/flexbox?color=7800ff&style=plastic"></a>
 
   <a href="https://github.com/kaiorr/flexbox/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/kaiorr/flexbox?style=social">
@@ -24,11 +24,11 @@
 
 O CSS Flexible Box Layout, conhecido como Flexbox, é um modelo de layout da Web CSS3. Está no estágio de recomendação de candidatos (CR) do W3C. O layout flexível permite que os elementos responsivos dentro de um contêiner sejam organizados automaticamente, dependendo do tamanho da tela (ou dispositivo).
 
-Este repositório vai contar com projetos de icial até avançado onde será demonstrado o poder do flexbox.
+Este repositório vai contar com projetos de com nível iniciante até o avançado, onde será demonstrado o poder do flexbox.
 
 ## 🤔 Como Contribuir
 
-**Encare essa contribuição como uma forma de fomentar conhecimento sobre git e gitbub, todo e qualquer feedback será bem vindo.**
+**Encare essa contribuição como uma forma de consolidar seu conhecimento sobre git e gitbub, todo e qualquer feedback será bem vindo.**
 
 > -  Faça fork do repositório
 > -  Crie uma nova branch **git checkout -b my feature**
