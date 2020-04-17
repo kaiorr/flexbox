@@ -115,5 +115,35 @@ div.bar .content {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 30px;
+  padding-left: 285px;
+}
+
+div.bar .content ul {
+  display: flex;
+  list-style: none;
+}
+
+div.bar .content ul li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 15px;
+  padding: 0 15px;
+}
+
+div.bar .content ul li:first-child {
+  margin: 0;
+}
+
+div.bar .content ul li span {
+  color: #667580;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+div.bar .content ul li strong {
+  color: #667580;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 2px;
 }
