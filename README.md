@@ -1,6 +1,6 @@
 <p align="center"><img src="logo.png" alt="FlexBox"></p>
 
-----
+<h2 align="center">💡 Responsividade</h2>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kaiorr/flexbox?style=plastic">
